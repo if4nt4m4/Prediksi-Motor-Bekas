@@ -4,5 +4,4 @@ matplotlib
 seaborn
 joblib
 numpy
-pickle
 sklearn
